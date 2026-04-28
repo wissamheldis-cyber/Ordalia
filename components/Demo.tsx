@@ -70,7 +70,7 @@ export function Demo() {
           {/* Grille de résultats avec couleurs sémantiques */}
           <div className="mt-6 grid gap-4 md:grid-cols-3">
             {findings.map((item, i) => {
-              const Icon = item.icon || item.Icon;
+              const Icon = item.Icon;
               return (
                 <motion.div 
                   key={item.label} 
