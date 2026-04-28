@@ -1,0 +1,141 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --line: rgba(226, 242, 255, .15);
+  --line-strong: rgba(226, 242, 255, .26);
+  --text: #EAF4FF;
+}
+
+* { box-sizing: border-box; }
+html, body { width: 100%; overflow-x: hidden; scroll-behavior: smooth; }
+body {
+  margin: 0;
+  color: var(--text);
+  background:
+    radial-gradient(circle at 80% 10%, rgba(76, 139, 255, .18), transparent 34rem),
+    radial-gradient(circle at 16% 68%, rgba(64, 221, 211, .10), transparent 32rem),
+    radial-gradient(circle at 88% 74%, rgba(230,167,255,.11), transparent 28rem),
+    linear-gradient(135deg, #02070D 0%, #071522 48%, #02060B 100%);
+}
+
+body:before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: -4;
+  background:
+    linear-gradient(120deg, rgba(255,255,255,.026), transparent 18%, rgba(255,255,255,.018) 42%, transparent 70%),
+    radial-gradient(circle at 50% 0%, rgba(128,230,255,.075), transparent 38rem);
+}
+
+body:after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: -3;
+  opacity: .28;
+  background-image: radial-gradient(circle, rgba(220,235,255,.13) 1px, transparent 1.5px);
+  background-size: 56px 56px;
+  mask-image: linear-gradient(to bottom, transparent 0%, black 15%, black 72%, transparent 100%);
+}
+
+.noise {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: .052;
+  z-index: -2;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 260 260' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.82' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='260' height='260' filter='url(%23n)' opacity='.5'/%3E%3C/svg%3E");
+}
+
+.bg-orb {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: -1;
+  background:
+    radial-gradient(circle at 13% 20%, rgba(138,246,255,.055), transparent 18rem),
+    radial-gradient(circle at 86% 54%, rgba(230,167,255,.065), transparent 23rem),
+    radial-gradient(circle at 50% 50%, rgba(106,125,255,.04), transparent 36rem);
+}
+
+.gradient-text {
+  background: linear-gradient(105deg, #F0D4FF 0%, #BDEEFF 44%, #E9C0FF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.liquid-frame {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background:
+    radial-gradient(circle at 14% 80%, rgba(138,246,255,.18), transparent 15rem),
+    radial-gradient(circle at 84% 18%, rgba(230,167,255,.14), transparent 15rem),
+    linear-gradient(135deg, rgba(245,250,255,.08), rgba(255,255,255,.02));
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,.15),
+    inset 0 -1px 0 rgba(255,255,255,.04),
+    0 24px 80px rgba(0,0,0,.5),
+    0 0 60px rgba(138,246,255,.08),
+    0 0 60px rgba(230,167,255,.05);
+  backdrop-filter: blur(40px) saturate(180%);
+}
+
+.liquid-frame:before {
+  content: "";
+  position: absolute;
+  inset: -30%;
+  pointer-events: none;
+  background:
+    radial-gradient(ellipse at 20% 74%, rgba(155,255,244,.15), transparent 25%),
+    radial-gradient(ellipse at 80% 24%, rgba(239,178,255,.12), transparent 28%),
+    radial-gradient(ellipse at 40% 30%, rgba(255,255,255,.06), transparent 25%);
+  filter: blur(30px);
+  opacity: .7;
+}
+
+.liquid-edge { position: relative; }
+.liquid-edge:after {
+  content: "";
+  position: absolute;
+  inset: -1.2px;
+  border-radius: inherit;
+  pointer-events: none;
+  padding: 1.2px;
+  background: linear-gradient(120deg, rgba(138,246,255,1), rgba(255,255,255,.1) 38%, rgba(230,167,255,1));
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  opacity: .9;
+}
+
+.silent-placeholder { position: relative; min-height: 120px; }
+.silent-placeholder:after {
+  content: "×";
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font-size: 28px;
+  font-weight: 300;
+  color: rgba(0,0,0,.55);
+}
+
+@media (max-width: 768px) {
+  body:after { background-size: 42px 42px; opacity: .20; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *:before, *:after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

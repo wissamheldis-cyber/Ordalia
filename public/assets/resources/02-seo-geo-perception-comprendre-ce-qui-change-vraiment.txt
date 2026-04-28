@@ -1,0 +1,336 @@
+# SEO, GEO, perception : comprendre ce qui change vraiment
+
+Beaucoup d’entreprises sentent qu’un changement est en cours, mais les mots restent flous.
+
+SEO.
+GEO.
+Visibilité IA.
+Moteurs de réponse.
+Réputation algorithmique.
+Perception IA.
+
+Le risque, c’est de tout mélanger.
+
+Certaines entreprises pensent que le SEO suffit encore à tout couvrir. D’autres pensent que l’IA remplace déjà tous les anciens leviers de visibilité. Les deux lectures sont trop simples.
+
+**Le problème n’est pas de choisir entre SEO et IA. Le problème est de comprendre ce que chaque couche mesure.**
+
+Le SEO reste important. Le GEO devient nécessaire. La perception IA ajoute une troisième dimension : non seulement apparaître, mais être correctement compris, comparé et recommandé.
+
+Autrement dit : être trouvé n’est pas la même chose qu’être compris. Et être compris n’est pas la même chose qu’être recommandé.
+
+---
+
+## SEO : être trouvé
+
+Le SEO, ou référencement naturel, consiste à rendre une page visible dans les moteurs de recherche classiques.
+
+La logique est connue : une entreprise publie des pages, structure son site, travaille ses mots-clés, améliore sa technique, renforce son autorité, puis cherche à apparaître dans les résultats Google sur des requêtes pertinentes.
+
+Le SEO repose notamment sur :
+
+* l’indexation des pages ;
+* les mots-clés ;
+* la qualité des contenus ;
+* la structure du site ;
+* les titres et balises ;
+* les backlinks ;
+* la performance technique ;
+* la pertinence locale ;
+* l’autorité du domaine ;
+* la capacité à générer du trafic organique.
+
+Dans ce modèle, l’utilisateur cherche une information, Google affiche des résultats, puis l’utilisateur clique sur un lien.
+
+Le SEO vise donc à répondre à une question simple :
+
+> Est-ce que Google me rend visible ?
+
+Pour une entreprise, c’est encore fondamental.
+
+Un cabinet d’avocats, un expert-comptable, un consultant ou une agence immobilière premium qui n’apparaît pas sur les recherches importantes perd une partie de son marché potentiel.
+
+Mais le SEO reste essentiellement lié à une logique de pages et de résultats.
+
+Il aide à être trouvé.
+
+Il ne dit pas toujours comment l’entreprise est comprise par les plateformes qui synthétisent l’information.
+
+---
+
+## GEO : apparaître dans les réponses génératives
+
+Le GEO, pour Generative Engine Optimization, désigne l’optimisation de la présence dans les réponses produites par les plateformes génératives et les moteurs de réponse.
+
+Là où Google affiche traditionnellement une liste de liens, des plateformes comme ChatGPT, Claude, Gemini ou Perplexity peuvent produire une réponse synthétique.
+
+Elles peuvent :
+
+* reformuler l’information ;
+* résumer plusieurs sources ;
+* comparer des acteurs ;
+* citer certains noms ;
+* ignorer d’autres entreprises ;
+* proposer des critères de choix ;
+* recommander des options selon un besoin.
+
+La différence est majeure.
+
+Un utilisateur ne voit pas forcément dix résultats à explorer. Il peut recevoir une réponse déjà organisée, parfois avec quelques acteurs seulement.
+
+Le GEO cherche donc à répondre à une autre question :
+
+> Suis-je cité dans les réponses génératives ?
+
+C’est une couche nouvelle par rapport au SEO.
+
+Une entreprise peut être bien positionnée sur Google, mais absente d’une réponse générée par ChatGPT ou Perplexity. Elle peut aussi être citée, mais à partir d’informations faibles, anciennes ou mal structurées.
+
+Le GEO ne remplace pas le SEO. Il le prolonge.
+
+Car les moteurs de réponse ne partent pas de rien. Ils lisent, synthétisent et interprètent des contenus disponibles. Un site clair, des pages structurées, des sources cohérentes et une présence en ligne solide peuvent devenir des signaux utiles.
+
+Mais apparaître dans une réponse ne suffit pas.
+
+Encore faut-il être bien décrit.
+
+---
+
+## Perception IA : être correctement compris
+
+La perception IA est une couche plus large.
+
+Elle ne se limite pas à la question : “Est-ce que mon entreprise apparaît ?”
+
+Elle demande plutôt :
+
+> Comment les plateformes IA comprennent-elles mon entreprise ?
+
+C’est là que le sujet devient plus stratégique.
+
+Une plateforme peut citer une entreprise tout en la décrivant mal. Elle peut la réduire à une offre vague. Elle peut ignorer ses spécialités principales. Elle peut la comparer à des concurrents plus visibles. Elle peut reprendre une information obsolète. Elle peut accorder plus d’autorité à un acteur mieux documenté.
+
+La perception IA concerne donc plusieurs questions :
+
+* Que dit la plateforme sur l’entreprise ?
+* Comprend-elle correctement son offre ?
+* Cite-t-elle les bonnes spécialités ?
+* Mélange-t-elle certaines informations ?
+* Donne-t-elle plus d’autorité à un concurrent ?
+* Les sources disponibles sont-elles assez claires ?
+* L’entreprise semble-t-elle crédible ?
+* Est-elle recommandable dans un contexte donné ?
+
+C’est ici qu’Ordalia intervient.
+
+Ordalia ne regarde pas seulement si une entreprise est visible. Elle mesure aussi la manière dont elle est lue, décrite, comparée, ignorée ou recommandée.
+
+Le sujet n’est donc pas uniquement la visibilité IA entreprise.
+Le sujet est aussi l’exactitude, la confiance, la concurrence et la recommandabilité.
+
+Une entreprise peut être trouvée.
+Elle peut même être citée.
+Mais si elle est mal comprise, le problème reste entier.
+
+---
+
+## Les trois couches comparées
+
+| Couche        | Objectif                                | Question principale                                               | Ce que l’on mesure                                                                                    |
+| ------------- | --------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| SEO           | Être trouvé                             | Est-ce que Google me rend visible ?                               | Indexation, positions, mots-clés, trafic organique, pages, backlinks                                  |
+| GEO           | Apparaître dans les réponses            | Suis-je cité dans les réponses génératives ?                      | Présence dans ChatGPT, Claude, Gemini, Perplexity, citations, sources, formulation                    |
+| Perception IA | Être compris et recommandé correctement | Comment les plateformes me décrivent, me comparent et me jugent ? | Exactitude, spécialités, confiance, concurrents visibles, réputation algorithmique, recommandation IA |
+
+Ces trois couches ne s’opposent pas.
+
+Elles s’empilent.
+
+Le SEO construit une base visible.
+Le GEO cherche à exister dans les moteurs de réponse.
+La perception IA vérifie si cette existence est claire, exacte et crédible.
+
+Le vrai risque, pour une entreprise, est de travailler une seule couche en pensant couvrir tout le terrain.
+
+---
+
+## Exemple concret : le cabinet d’avocats visible, mais mal compris
+
+Prenons un cabinet d’avocats à Paris.
+
+Le cabinet a un bon site. Il apparaît correctement sur certaines recherches locales. Il possède des pages de spécialité, quelques avis, une présence professionnelle propre. Son SEO local n’est pas mauvais.
+
+Sur Google, il est visible.
+
+Mais un prospect ne tape pas seulement une requête classique. Il demande à ChatGPT ou Perplexity :
+
+> “Quel avocat recommander à Paris pour un litige immobilier complexe ?”
+
+La réponse cite trois cabinets concurrents.
+Le cabinet en question n’apparaît pas.
+
+Ou deuxième scénario : il apparaît, mais la réponse le décrit de façon trop générale :
+
+> “Cabinet intervenant en droit civil et droit des affaires.”
+
+Alors que sa vraie force est le contentieux immobilier, les baux commerciaux ou les litiges entre associés liés à des actifs immobiliers.
+
+Troisième scénario : un concurrent est présenté comme plus spécialisé, simplement parce que ses contenus sont mieux structurés, ses pages plus explicites, ses preuves plus lisibles et ses sources externes plus cohérentes.
+
+Dans ces trois cas, le cabinet peut avoir travaillé son SEO.
+Mais sa visibilité machine reste insuffisante.
+
+Il est peut-être trouvé.
+Il n’est pas forcément compris.
+Il n’est pas forcément recommandé.
+
+Et surtout : cette perte ne se voit pas forcément dans ses analytics.
+
+Aucune visite perdue.
+Aucun formulaire abandonné.
+Aucun appel manqué.
+
+Le choix a peut-être été orienté avant même le clic.
+
+C’est pour cela que mesurer la perception IA devient stratégique.
+
+---
+
+## Pourquoi Ordalia mesure avant de corriger
+
+Beaucoup d’entreprises veulent aller trop vite.
+
+Elles entendent parler de GEO, de visibilité IA, d’audit ChatGPT entreprise, de contenus optimisés pour les moteurs de réponse, puis elles veulent immédiatement produire de nouvelles pages.
+
+Mais sans diagnostic, le risque est simple : corriger à l’aveugle.
+
+Avant de créer plus de contenu, il faut comprendre ce qui existe déjà dans les réponses.
+
+Ordalia commence donc par mesurer.
+
+Un audit Ordalia examine notamment :
+
+* les requêtes testées ;
+* la présence ou l’absence de l’entreprise ;
+* les concurrents visibles ;
+* la manière dont l’entreprise est décrite ;
+* les erreurs ou formulations faibles ;
+* les signaux de confiance disponibles ;
+* les écarts entre réalité et perception ;
+* les recommandations prioritaires.
+
+L’objectif n’est pas de promettre une apparition garantie dans ChatGPT, Claude, Gemini ou Perplexity. Ce serait une promesse fragile.
+
+L’objectif est de produire une lecture claire :
+
+> Voici comment les plateformes vous lisent aujourd’hui.
+> Voici où vous êtes absent.
+> Voici quels concurrents ressortent.
+> Voici ce qu’il faut corriger en priorité.
+
+Cette méthode est plus saine.
+
+Elle permet de distinguer les vrais problèmes des intuitions.
+
+---
+
+## Pourquoi l’audit à 290€ HT est un bon point d’entrée
+
+L’audit de visibilité IA à partir de **290€ HT** est conçu comme une première cartographie.
+
+Il ne demande pas d’engagement long.
+Il ne force pas une refonte.
+Il ne promet pas de miracle.
+
+Il donne une base.
+
+Pour une entreprise, l’intérêt est simple : obtenir un rapport clair avant de décider quoi faire ensuite.
+
+Ce rapport peut montrer :
+
+* que l’entreprise est déjà bien comprise ;
+* qu’elle est visible sur certaines requêtes, mais absente sur d’autres ;
+* que ses concurrents ressortent plus souvent ;
+* que certaines descriptions sont faibles ;
+* que des preuves manquent ;
+* que certaines pages doivent être clarifiées ;
+* qu’une FAQ ou des contenus d’autorité pourraient aider ;
+* qu’un monitoring régulier serait pertinent.
+
+L’audit devient alors un point de départ vers plusieurs actions possibles :
+
+* correction GEO ;
+* amélioration des pages de spécialité ;
+* création de pages de preuve ;
+* structuration de FAQ ;
+* clarification des offres ;
+* renforcement de la réputation IA ;
+* suivi mensuel de la visibilité machine.
+
+Ce qui compte, c’est l’ordre.
+
+D’abord mesurer.
+Ensuite corriger.
+Puis suivre.
+
+---
+
+## SEO, GEO, perception : trois questions différentes
+
+Pour simplifier, une entreprise doit désormais se poser trois questions.
+
+### 1. Suis-je trouvable ?
+
+C’est la question SEO.
+
+Est-ce que mes pages existent ?
+Sont-elles indexées ?
+Sont-elles visibles sur Google ?
+Attirent-elles du trafic qualifié ?
+
+### 2. Suis-je cité ?
+
+C’est la question GEO.
+
+Est-ce que ChatGPT, Claude, Gemini ou Perplexity parlent de moi ?
+Est-ce que mon entreprise ressort sur des requêtes importantes ?
+Est-ce que mes contenus sont repris ou synthétisés ?
+
+### 3. Suis-je correctement compris ?
+
+C’est la question de perception IA.
+
+Est-ce que mon offre est claire ?
+Est-ce que mes spécialités sont bien interprétées ?
+Est-ce que les plateformes me comparent correctement ?
+Est-ce que je suis recommandé dans les bons contextes ?
+Est-ce que ma réputation algorithmique me sert ou me pénalise ?
+
+Ces trois questions doivent être traitées ensemble.
+
+Pas dans la panique.
+Pas dans la hype.
+Mais avec méthode.
+
+---
+
+## Conclusion : le SEO n’est pas mort, il devient une base
+
+Le SEO n’est pas mort.
+
+Il reste une fondation essentielle de la visibilité numérique.
+
+Mais il ne suffit plus à lui seul pour comprendre comment une entreprise est perçue dans les nouveaux parcours de recherche.
+
+Les moteurs de réponse ne se contentent pas d’afficher des liens. Ils synthétisent, comparent, reformulent et recommandent. Ils peuvent rendre une entreprise plus visible, mais aussi révéler ses faiblesses de clarté, de preuve ou de positionnement.
+
+Le GEO ajoute une couche : apparaître dans les réponses génératives.
+
+La perception IA ajoute une couche encore plus stratégique : être compris, crédible et recommandable.
+
+La prochaine étape n’est donc pas d’abandonner le SEO.
+C’est d’ajouter la lisibilité machine.
+
+Et pour cela, le bon point de départ reste le même : mesurer avant de corriger.
+
+**Commencer par un audit de visibilité IA — à partir de 290€ HT.**

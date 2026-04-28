@@ -1,0 +1,22 @@
+TITRE : SEO, GEO, perception : comprendre ce qui change vraiment
+SLUG : seo-geo-perception-comprendre-ce-qui-change-vraiment
+CATEGORIE : Méthode
+LECTURE : 8 min
+
+EXCERPT :
+SEO, GEO et perception IA ne s’opposent pas. Ce sont trois couches complémentaires pour comprendre comment une entreprise est trouvée, citée et réellement comprise.
+
+META TITLE : SEO, GEO, perception IA : comprendre les différences | Ordalia
+META DESCRIPTION : Comprenez la différence entre SEO, GEO et perception IA, et pourquoi la visibilité sur ChatGPT, Claude, Gemini et Perplexity devient une nouvelle couche stratégique.
+
+CONTENU :
+
+H2 : Le SEO : la fondation technique
+Le SEO classique reste la base. Il assure que votre site est explorable et indexable par les robots. Sans un bon SEO, l'IA aura du mal à accéder à vos sources officielles.
+
+H2 : Le GEO : l'optimisation pour l'IA
+Le Generative Engine Optimization (GEO) est l'art de structurer vos contenus pour qu'ils soient facilement citables par les LLMs. C'est une couche de lisibilité machine qui s'ajoute au SEO.
+
+H2 : La Perception : le signal de confiance
+Au-delà de la technique, l'IA évalue la perception de votre marque à travers le web. C'est ici que la réputation et l'autorité deviennent des facteurs techniques de classement.
+(Note Ordalia : L'IA ne cherche pas le meilleur site, mais la source la plus crédible.)

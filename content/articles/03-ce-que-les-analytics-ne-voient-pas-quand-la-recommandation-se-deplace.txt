@@ -1,0 +1,22 @@
+TITRE : Ce que les analytics ne voient pas quand la recommandation se déplace
+SLUG : ce-que-les-analytics-ne-voient-pas-quand-la-recommandation-se-deplace
+CATEGORIE : Analyse
+LECTURE : 6 min
+
+EXCERPT :
+Les analytics mesurent ce qui arrive sur votre site. Ils ne mesurent pas toujours les décisions qui ont empêché certains prospects d’arriver.
+
+META TITLE : Ce que les analytics ne voient pas quand la recommandation se déplace | Ordalia
+META DESCRIPTION : Découvrez pourquoi les analytics classiques ne captent pas toutes les opportunités invisibles créées par ChatGPT, Perplexity et les moteurs de réponse.
+
+CONTENU :
+
+H2 : Le silence des données classiques
+Google Analytics voit le clic. Mais il est aveugle face à l'utilisateur qui a posé une question à ChatGPT, a reçu une recommandation pour un concurrent, et a pris sa décision sans jamais visiter votre site.
+
+H2 : Le parcours utilisateur sans clic
+Nous entrons dans l'ère du 'Zero-Click'. L'information circule directement dans l'interface de l'IA. Si vous n'êtes pas dans la réponse, vous perdez un prospect sans même savoir qu'il existait.
+
+H2 : Mesurer l'impact réel
+Pour capter cette perte invisible, il faut changer d'outil. L'audit Ordalia simule ces parcours pour vous donner une visibilité sur ce que vos analytics ignorent par définition.
+(Note Ordalia : le trafic direct augmente souvent au détriment de l'organique identifié.)

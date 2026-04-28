@@ -1,0 +1,258 @@
+# Ce que les analytics ne voient pas quand la recommandation se déplace
+
+**Ce que vos analytics ne voient pas peut pourtant influencer vos revenus.**
+
+Pendant des années, les entreprises ont appris à lire leurs tableaux de bord : trafic, sources, conversions, pages vues, formulaires, campagnes, taux de rebond, coût d’acquisition.
+
+Ces outils restent utiles. Ils permettent de comprendre ce qui se passe **sur le site**.
+
+Mais une partie du parcours de décision commence désormais ailleurs.
+
+Un prospect peut demander une recommandation à ChatGPT, Claude, Gemini, Perplexity ou Copilot. La réponse peut citer un concurrent, ignorer votre entreprise, ou vous décrire de manière trop faible. Et dans ce cas, vos analytics ne voient rien.
+
+Pas de visite perdue.
+Pas de clic manqué.
+Pas de formulaire abandonné.
+Pas de signal clair.
+
+C’est là que la visibilité IA devient stratégique : elle mesure aussi ce qui peut se décider **avant la visite**.
+
+---
+
+## Ce que les analytics savent bien mesurer
+
+Les outils analytics classiques mesurent très bien ce qui arrive sur votre site.
+
+Ils permettent de suivre :
+
+* les visites ;
+* les sources de trafic ;
+* les pages vues ;
+* les taux de conversion ;
+* les formulaires remplis ;
+* les campagnes actives ;
+* certains mots-clés ;
+* le comportement sur site ;
+* les parcours de navigation ;
+* les contenus qui performent le mieux.
+
+Pour une stratégie digitale, ces données sont précieuses.
+
+Elles indiquent quels canaux apportent du trafic, quelles pages retiennent l’attention, quelles campagnes fonctionnent, quelles sources convertissent et où les utilisateurs quittent le parcours.
+
+Autrement dit, les analytics mesurent ce qui entre dans votre système.
+
+Ils vous disent :
+
+> Qui est arrivé ?
+> D’où vient-il ?
+> Qu’a-t-il consulté ?
+> A-t-il converti ?
+
+Mais ils ne répondent pas toujours à une autre question :
+
+> Pourquoi certains prospects ne sont-ils jamais arrivés ?
+
+---
+
+## Ce qu’ils ne voient pas
+
+Les analytics ne voient pas toujours les décisions prises avant le clic.
+
+Ils ne voient pas forcément :
+
+* un prospect qui demande une recommandation à ChatGPT ;
+* un concurrent cité à votre place ;
+* une réponse qui ignore votre entreprise ;
+* une description faible de votre offre ;
+* une source externe qui influence la réponse ;
+* une comparaison faite hors de votre site ;
+* une décision prise avant même que votre marque soit recherchée.
+
+C’est un changement discret, mais important.
+
+Avant, un utilisateur pouvait chercher sur Google, ouvrir plusieurs sites, comparer, lire des avis, revenir, puis décider. Dans ce modèle, l’entreprise avait souvent une chance d’apparaître dans le parcours mesurable.
+
+Aujourd’hui, une partie de la comparaison peut se produire dans une réponse synthétique.
+
+Si une plateforme comme Perplexity, ChatGPT ou Gemini cite trois acteurs et pas le vôtre, vous n’avez pas nécessairement de trace directe. Vous ne pouvez pas voir un trafic qui n’a jamais existé.
+
+C’est cela, l’opportunité invisible.
+
+---
+
+## Exemple concret : l’expert-comptable absent
+
+Imaginons un dirigeant de PME à Paris.
+
+Il cherche un expert-comptable et demande :
+
+> “Quel expert-comptable recommander pour une PME à Paris ?”
+
+La réponse cite trois cabinets.
+
+Votre cabinet n’est pas cité.
+
+Le dirigeant consulte l’un des trois cabinets, envoie un message, puis prend rendez-vous.
+
+Dans vos analytics, que voyez-vous ?
+
+Rien.
+
+* Aucune visite.
+* Aucun rebond.
+* Aucun formulaire abandonné.
+* Aucune page consultée.
+* Aucune trace exploitable.
+
+Pourtant, vous avez potentiellement perdu une opportunité.
+
+Attention : cela ne veut pas dire que chaque absence dans une réponse équivaut automatiquement à une vente perdue. Ce serait une mauvaise lecture.
+
+Mais cela signifie qu’un nouveau type de signal existe : votre entreprise peut être absente d’un espace où une décision commence.
+
+Et si cette absence se répète sur plusieurs requêtes, plusieurs plateformes et plusieurs comparaisons concurrentielles, le sujet devient trop important pour être ignoré.
+
+---
+
+## Pourquoi cette zone devient stratégique
+
+Les parcours de recherche se déplacent.
+
+Les utilisateurs ne cherchent plus seulement des pages. Ils demandent des réponses. Ils demandent des comparaisons. Ils demandent des recommandations. Ils veulent gagner du temps.
+
+Les moteurs de réponse peuvent alors réduire le nombre d’options visibles.
+
+Au lieu de parcourir dix résultats, l’utilisateur peut recevoir une synthèse avec quelques noms, quelques critères et une orientation.
+
+Dans ce contexte, la concurrence ne se joue plus seulement sur le trafic.
+
+Elle se joue aussi sur :
+
+* la clarté de votre positionnement ;
+* la qualité de vos sources publiques ;
+* la cohérence de vos contenus ;
+* vos signaux de confiance ;
+* la façon dont votre expertise est décrite ;
+* votre présence face aux concurrents ;
+* la réputation IA associée à votre marque.
+
+Une entreprise peut avoir un bon site, des avis corrects, une offre solide, et pourtant être moins lisible qu’un concurrent pour les plateformes IA.
+
+C’est pour cela qu’il ne suffit plus de suivre uniquement ce qui arrive sur le site. Il faut aussi comprendre ce qui se passe en amont, dans les systèmes qui orientent la recommandation.
+
+---
+
+## Trafic et recommandation : deux réalités différentes
+
+Le trafic, c’est ce qui arrive chez vous.
+
+La recommandation, c’est ce qui peut orienter le choix avant d’arriver chez vous.
+
+Les deux sont liés, mais ce ne sont pas les mêmes choses.
+
+Une entreprise peut générer du trafic sans être fortement recommandée.
+Elle peut être connue, mais mal décrite.
+Elle peut être bien positionnée sur Google, mais absente d’une réponse de ChatGPT entreprise ou de Perplexity.
+Elle peut avoir un site propre, mais manquer de preuves lisibles pour les moteurs de réponse.
+
+**Une entreprise peut avoir un bon site et rester absente de la réponse qui compte.**
+
+C’est brutal, mais c’est précisément le point.
+
+Le site reste essentiel. Le SEO reste important. Les analytics restent utiles. Mais ils ne suffisent pas toujours à comprendre les nouveaux parcours de décision.
+
+La visibilité IA ajoute une couche différente : la capacité d’une entreprise à être lue, comprise, citée et comparée correctement par les plateformes qui synthétisent le web.
+
+---
+
+## Ce qu’un audit Ordalia permet de voir
+
+Un audit visibilité IA ne remplace pas les analytics.
+
+Il complète ce qu’ils ne mesurent pas.
+
+Ordalia permet d’observer comment une entreprise ressort dans les nouveaux parcours de recommandation, en analysant notamment :
+
+* les requêtes testées ;
+* la présence ou l’absence de l’entreprise ;
+* les concurrents visibles ;
+* les erreurs éventuelles ;
+* les descriptions faibles ;
+* les signaux de confiance ;
+* les sources qui renforcent ou affaiblissent la perception ;
+* les corrections prioritaires.
+
+L’objectif n’est pas de promettre une présence garantie dans ChatGPT, Claude, Gemini ou Perplexity.
+
+L’objectif est plus sérieux : produire une première cartographie.
+
+Qu’est-ce qui ressort ?
+Qu’est-ce qui manque ?
+Qui est cité ?
+Comment l’entreprise est-elle décrite ?
+Qu’est-ce qui peut être corrigé ?
+
+C’est le point de départ d’une stratégie GEO, d’une meilleure réputation IA et d’une acquisition B2B plus lucide.
+
+---
+
+## Pourquoi commencer par un audit à 290€ HT
+
+Commencer par un audit à **290€ HT** permet de tester le sujet sans engagement long.
+
+C’est une entrée simple, mais utile.
+
+L’entreprise repart avec un rapport clair qui permet de comprendre :
+
+* où elle apparaît ;
+* où elle est absente ;
+* quels concurrents prennent de la place ;
+* quelles descriptions sont faibles ;
+* quels signaux de confiance sont insuffisants ;
+* quelles corrections prioriser.
+
+Ce rapport peut ensuite servir de base pour décider quoi faire :
+
+* améliorer certaines pages ;
+* clarifier les spécialités ;
+* créer des contenus d’autorité ;
+* renforcer les pages de preuve ;
+* structurer une FAQ ;
+* travailler la correction GEO ;
+* suivre l’évolution de la visibilité IA dans le temps.
+
+Le bon ordre est simple :
+
+Mesurer.
+Comprendre.
+Corriger.
+Suivre.
+
+Sans mesure initiale, l’entreprise risque de produire du contenu à l’aveugle.
+
+Avec une première cartographie, elle peut décider plus proprement.
+
+---
+
+## Conclusion : mesurer aussi ce qui précède la visite
+
+Les analytics restent indispensables.
+
+Ils mesurent le trafic, les conversions, les campagnes et le comportement sur site. Ils donnent une vision précieuse de ce qui se passe une fois que le prospect arrive.
+
+Mais ils ne suffisent plus à eux seuls.
+
+Car une partie de la décision peut désormais se jouer avant la visite, dans les moteurs de réponse, les plateformes IA et les systèmes qui orientent la recommandation.
+
+La question n’est donc plus seulement :
+
+> Combien de personnes visitent mon site ?
+
+Elle devient aussi :
+
+> Combien de fois mon entreprise est-elle comprise, citée ou ignorée avant même que le clic existe ?
+
+C’est cette zone qu’Ordalia rend visible.
+
+**Demander un audit de visibilité IA — à partir de 290€ HT.**
